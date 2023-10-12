@@ -1,8 +1,8 @@
-# Product-Prediction-Model-ML
-◦ Analysed and studied behaviour of dataset of online shopping product reviews.
-
-◦ Studied the pattern and trained a model using linear and logistic regression.
-
-◦ Further analysed the limitations to the models and usage of dataset.
-
-◦ Discussed some ideas worth working on, for the extra unused data.
+# Video Sharing App
+• Implemented robust authentication methods, including Bcrypt for password hashing, JWT for user sessions, and Google
+authentication for diverse login options.
+• Integrated like, dislike, and subscribe functionality, enhancing user interaction and community engagement.
+• Incorporated video uploads using Firebase Storage for seamless sharing. Also, developed a feature to upload files with
+associated URLs directly stored in MongoDB, optimizing data management and user experience.
+• Implemented a recommendation system to deliver personalized content and integrated advanced search functionality,
+improving content discoverability.
